@@ -1,1 +1,1 @@
-# LOFI_UI
+# OpenClaw-Lofi-UI
